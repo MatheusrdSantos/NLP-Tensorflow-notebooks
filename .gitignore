@@ -1,3 +1,4 @@
 articles.csv
 training_checkpoints/
 .ipynb_checkpoints/
+models/
